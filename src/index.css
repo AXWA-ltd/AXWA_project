@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#box{
+background: white ;
+width: 600px;
+border-radius: 5px;
+float: none;
+padding-top: 20px;
+padding-bottom: 30px;
+margin-top: 5px;
+box-shadow: 20px 20px 20px rgb(2, 2, 2);
+
+}
+a{
+  padding-left: 10px;
+  text-decoration: brown;
+  color: brown;
+  font-weight: bolder;
+}
