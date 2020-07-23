@@ -26,7 +26,7 @@ export class Success extends Component {
                   
                   
 
-                  <h1 style={{color:'yellow', }}>Thank You for SignUp in AFRO ARK!</h1>
+                  <h1 style={{color:'yellow', }}>Thank You for SignUp to AXWA!</h1>
                   <p style={{color:'white', }}>Now you can Login!</p><br/><br/>
                   <center>
                   <Box id="box">
@@ -53,7 +53,7 @@ export class Success extends Component {
                   />
                   <br/><br/><br/>
                   <RaisedButton 
-                  href="https://www.afroark.org/"
+                  href="https://twitter.com/LtdAkwa"
                   label="Login"
                   secondary={true}
                   style={StyleSheet.button}
